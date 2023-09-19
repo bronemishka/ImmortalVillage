@@ -1,6 +1,7 @@
 {
   "AppVersion": "2.3",
-  "AppLink": "https://cdn.discordapp.com/attachments/1149661779975225485/1153061500731277413/ModPackLoader.exe",
   "Version": "4.4.2",
-  "ModpackLink": "https://cdn.discordapp.com/attachments/1150886126421278831/1153761812966297660/4.4.2.zip"
+  "AppLink": "https://cdn.discordapp.com/attachments/1149661779975225485/1153061500731277413/ModPackLoader.exe",
+  "ModpackLink": "https://cdn.discordapp.com/attachments/1150886126421278831/1153761812966297660/4.4.2.zip",
+  "UpdaterLink": "https://cdn.discordapp.com/attachments/1150886126421278831/1153803210956472380/updater.exe"
 }
