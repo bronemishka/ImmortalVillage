@@ -1,6 +1,6 @@
 {
-  "AppVersion": "5.4",
-  "AppLink": "https://github.com/bronemishka/ImmortalVillage/raw/main/ModPackLoader.exe",
+  "AppVersion": "5.5",
+  "AppLink": "https://gitlab.com/bronemishka/modpack/-/raw/main/ModPackLoader.exe",
   "ModpackLink": "https://gitlab.com/bronemishka/modpack/-/raw/main/6.0.0.zip?ref_type=heads&inline=false",
   "MinecraftVersion": "1.20.1",
   "ForgeVersion": "47.2.21",
